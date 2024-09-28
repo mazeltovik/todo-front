@@ -1,5 +1,4 @@
 import { Card, Flex, Typography, Button } from 'antd';
-import { EllipsisOutlined } from '@ant-design/icons';
 import { TaskType } from '../types/activeTackType';
 
 const { Text } = Typography;

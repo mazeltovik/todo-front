@@ -1,5 +1,4 @@
 import { Card, Button, Flex, Typography } from 'antd';
-import { CloseCircleOutlined, CheckCircleOutlined } from '@ant-design/icons';
 
 import { TaskType } from '../types/activeTackType';
 
